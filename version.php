@@ -5,14 +5,14 @@
 defined('MOODLE_INTERNAL') || die();                                                                                                
  
 // This is the version of the plugin.                                                                                               
-$plugin->version = '00';                                                                                                    
+$plugin->version = '0.01';                                                                                                    
  
 // This is the version of Moodle this plugin requires.                                                                              
 $plugin->requires = '2016070700';                                                                                                   
  
 // This is the component name of the plugin - it always starts with 'theme_'                                                        
 // for themes and should be the same as the name of the folder.                                                                     
-$plugin->component = 'theme_kmc-boost';                                                                                                 
+$plugin->component = 'theme_kmcboost';                                                                                                 
  
 // This is a list of plugins, this plugin depends on (and their versions).                                                          
 $plugin->dependencies = [                                                                                                           

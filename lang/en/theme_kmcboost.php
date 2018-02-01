@@ -7,6 +7,7 @@ defined('MOODLE_INTERNAL') || die();
 // A description shown in the admin theme selector.                                                                                 
 $string['choosereadme'] = 'kmc-boost is a child theme of Boost - minor customisations and marketing panels on site home.';                
 // The name of our plugin.                                                                                                          
-$string['pluginname'] = 'kmc-boost';                                                                                                    
+$string['pluginname'] = 'kmcboost';   
+
 // We need to include a lang string for each block region.                                                                          
 $string['region-side-pre'] = 'Right';
